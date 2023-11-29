@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm W.N Chamindu</h1>
-<h3 align="center">i am currently studing BSC(Hons) Information Technology at SLIIT.<br> Undergraduate at SLIIT</h3>
+<h3 align="center">i am Undergraduate <br>  Studing BSC(Hons) Information Technology at SLIIT.</h3>
 
-<center> <p align="left"> <a href="https://twitter.com/chamindu_wn" target="blank"><img src="https://img.shields.io/twitter/follow/chamindu_wn?logo=twitter&style=for-the-badge" alt="chamindu_wn" /></a> </p> </center> <center>
+ <p align="center"> <a href="https://twitter.com/chamindu_wn" target="blank"><img src="https://img.shields.io/twitter/follow/chamindu_wn?logo=twitter&style=for-the-badge" alt="chamindu_wn" /></a> </p> 
 
 - 🌱 I’m currently learning **java**
 
