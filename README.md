@@ -3,6 +3,8 @@
 
  <p align="center"> <a href="https://twitter.com/chamindu_wn" target="blank"><img src="https://img.shields.io/twitter/follow/chamindu_wn?logo=twitter&style=for-the-badge" alt="chamindu_wn" /></a> </p> 
 
+
+---
 - 🌱 I’m currently learning **java**
 
 - 📫 How to reach me **chaminduwn@gmail,com**
