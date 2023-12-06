@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg&style=for-the-badge)
 ![w3school.com](https://img.shields.io/badge/w3school.com-37ab6c?style=for-the-badge&logo=w3school.com&logoColor=green)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -63,7 +63,7 @@
 <br>
 <center>
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Chamindu WN"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Chamindu WN" /></center></a></p><br><br> 
+<p><a href="https://www.buymeacoffee.com/Chamindu WN"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Chamindu WN" /></a></center></p><br><br> 
 
 
 ----
