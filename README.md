@@ -32,6 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![w3school.com](https://img.shields.io/badge/w3school.com-A8B9CC?style=flat-square&logo=w3school.com&logoColor=green)
 
 
 
