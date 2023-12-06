@@ -5,7 +5,7 @@
 <br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-<picture> <img align="right" src="https://resize.faq-answers.net/2020-autumn.html" width = 300px></picture>
+<picture> <img align="right" src="https://ruya.studio/assets/images/dev.webp" width = 300px></picture>
 
 - 🌱 I’m currently learning **java**
 
