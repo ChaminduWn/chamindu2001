@@ -5,7 +5,7 @@
 <br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://www.google.com/search?q=coding+gif&sca_esv=588364199&tbm=isch&sxsrf=AM9HkKkzrU0uinNEdNxo0LKTnt9xiwOpzw:1701865801294&source=lnms&sa=X&ved=2ahUKEwjtlKqU6PqCAxUyxDgGHYRGDQEQ_AUoAXoECAMQAw&biw=1366&bih=633&dpr=1#imgrc=MwozBsUeOfn96M&imgdii=hShMtG-9VC7zDM)" width = 300px></picture>
 
 - 🌱 I’m currently learning **java**
 
