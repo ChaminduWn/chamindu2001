@@ -2,7 +2,8 @@
 <h3 align="center">Studing BSC(Hons) Information Technology at SLIIT</h3>
 
 <p align="center"> <a href="https://twitter.com/chamindu_wn" target="blank"><img src="https://img.shields.io/twitter/follow/chamindu_wn?logo=twitter&style=for-the-badge" alt="chamindu_wn" /></a> </p>
-
+<br>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 ---
 
 - 🌱 I’m currently learning **java**
