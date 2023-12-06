@@ -32,10 +32,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-29577e?style=flat-square&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-93304c?style=flat-square&logo=C++&logoColor=white)
 ![java](https://img.shields.io/badge/java-3c7fb8?style=flat-square&logo=java&logoColor=white)
 ![php](https://img.shields.io/badge/php-2f6492?style=flat-square&logo=php&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-4babc5?style=flat-square&logo=Photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Ps-4babc5?style=flat-square&logo=Ps&logoColor=white)
 ![Coreldraw](https://img.shields.io/badge/Coreldraw-3cba57C?style=flat-square&logo=Coreldraw&logoColor=white)
 ![w3school.com](https://img.shields.io/badge/w3school.com-37ab6c?style=flat-square&logo=w3school.com&logoColor=green)
 
