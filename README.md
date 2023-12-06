@@ -1,3 +1,7 @@
+
+<picture> <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width = 300px></picture>
+
+
 <h1 align="center">Hi 👋, I'm Chamindu W.N </h1>
 <h3 align="center">Studing BSC(Hons) Information Technology at SLIIT</h3>
 
