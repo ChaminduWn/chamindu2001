@@ -37,7 +37,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/java-3c7fb8?style=flat-square&logo=java&logoColor=white)
 ![php](https://img.shields.io/badge/php-2f6492?style=flat-square&logo=php&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Ps-4babc5?style=flat-square&logo=Ps&logoColor=white)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Coreldraw](https://img.shields.io/badge/Coreldraw-3cba57C?style=flat-square&logo=Coreldraw&logoColor=white)
 ![w3school.com](https://img.shields.io/badge/w3school.com-37ab6c?style=flat-square&logo=w3school.com&logoColor=green)
 
