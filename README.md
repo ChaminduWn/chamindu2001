@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm W.N Chamindu</h1>
+<h1 align="center">Hi 👋, I'm Chamindu W.N </h1>
 <h3 align="center">Studing BSC(Hons) Information Technology at SLIIT</h3>
 
 <p align="center"> <a href="https://twitter.com/chamindu_wn" target="blank"><img src="https://img.shields.io/twitter/follow/chamindu_wn?logo=twitter&style=for-the-badge" alt="chamindu_wn" /></a> </p>
@@ -36,12 +36,12 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=chamindu2001&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/chamindu2001)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/chamindu2001)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=chamindu2001theme=material-palenight)](https://github.com/chamindu2001)
 </div>
 
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/chamindu2001/chamindu2001/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
