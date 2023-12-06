@@ -67,9 +67,9 @@
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)
 
 <br>
-<center>
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Chamindu WN"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Chamindu WN" /></a></p></center><br><br> 
+
+<h3 align="center">Support:
+<p><a href="https://www.buymeacoffee.com/Chamindu WN"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Chamindu WN" /></a></p></h3><br><br> 
 
 
 ----
