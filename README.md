@@ -11,7 +11,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 300px></picture>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m Undergraduate at **SLIIT**
 
